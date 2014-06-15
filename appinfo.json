@@ -1,0 +1,18 @@
+{
+  "uuid": "c97b6375-afda-4ec1-95b6-c5091a14e26d",
+  "shortName": "wc2014_live",
+  "longName": "wc2014_live",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "KEY_LOCATION": 0,
+    "KEY_TEMPERATURE": 1
+  },
+  "resources": {
+    "media": []
+  }
+}
